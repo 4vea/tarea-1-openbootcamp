@@ -1,0 +1,15 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "primer proyecto js openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node index.js"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproject"
+  ],
+  "author": "yo",
+  "license": "ISC"
+}
